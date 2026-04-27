@@ -20,8 +20,12 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 [dialogic]
 
-directories/dch_directory={}
-directories/dtl_directory={}
+directories/dch_directory={
+"El Guía": "res://Assets/El Guia/El Guía.dch"
+}
+directories/dtl_directory={
+"acto41": "res://ACTOS/acto 4/acto4.1.dtl"
+}
 layout/style_directory={}
 
 [editor_plugins]
