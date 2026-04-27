@@ -20,9 +20,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 [dialogic]
 
-directories/dch_directory={
-"El Guía": "res://Assets/El Guía/El Guía.dch"
-}
+directories/dch_directory={}
 directories/dtl_directory={}
 layout/style_directory={}
 
