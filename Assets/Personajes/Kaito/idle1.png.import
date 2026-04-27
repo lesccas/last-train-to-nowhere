@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crttj5quppr13"
-path="res://.godot/imported/idle1.png-633fe68a62b16ad755adcc494e924e7c.ctex"
+path="res://.godot/imported/idle1.png-36e45cd231999abad8f77849240520bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kaito/idle1.png"
-dest_files=["res://.godot/imported/idle1.png-633fe68a62b16ad755adcc494e924e7c.ctex"]
+source_file="res://Assets/Personajes/Kaito/idle1.png"
+dest_files=["res://.godot/imported/idle1.png-36e45cd231999abad8f77849240520bc.ctex"]
 
 [params]
 
