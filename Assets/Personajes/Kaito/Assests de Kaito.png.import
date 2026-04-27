@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chefumus8rf3g"
-path="res://.godot/imported/Assests de Kaito.png-0e83052959cfecd2e46834ff53a68c9a.ctex"
+path="res://.godot/imported/Assests de Kaito.png-ee9b217cf74a8902505c1bf547786ea7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kaito/Assests de Kaito.png"
-dest_files=["res://.godot/imported/Assests de Kaito.png-0e83052959cfecd2e46834ff53a68c9a.ctex"]
+source_file="res://Assets/Personajes/Kaito/Assests de Kaito.png"
+dest_files=["res://.godot/imported/Assests de Kaito.png-ee9b217cf74a8902505c1bf547786ea7.ctex"]
 
 [params]
 
