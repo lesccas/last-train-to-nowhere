@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Last Train To Nowhere"
-config/features=PackedStringArray("4.6", "GL Compatibility")
+config/name="last-train-to-nowhere"
+config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
@@ -21,15 +21,10 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"El Guía": "res://El Guía.dch"
 "El Guía": "res://Assets/El Guía/El Guía.dch"
 }
 directories/dtl_directory={}
 layout/style_directory={}
-variables={}
-layout/style_list=[]
-layout/default_style="Default"
-glossary/default_case_sensitive=true
 
 [editor_plugins]
 
@@ -54,5 +49,3 @@ dialogic_default_action={
 [rendering]
 
 rendering_device/driver.windows="d3d12"
-renderer/rendering_method="gl_compatibility"
-renderer/rendering_method.mobile="gl_compatibility"
