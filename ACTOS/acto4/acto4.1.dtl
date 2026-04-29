@@ -1,2 +1,7 @@
-[background fade="0.0"]
-join  center
+[background arg="res://Assets/Fondos/Assorted/train_one.webp" fade="0.0"]
+join "El Guia/El Guía" center
+"El Guia/El Guía": Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
+join Kaito right [mirrored="true"]
+Kaito: El aire... huele a gasolina y metal quemado. Como aquella noche.
+"El Guia/El Guía": El olfato es el sentido más difícil de engañar. Puedes mentirle a tus ojos, pero tu nariz recuerda el olor de la tragedia. Mira al fondo del túnel. ¿Qué ves?
+Kaito: <Empty Text Event>
