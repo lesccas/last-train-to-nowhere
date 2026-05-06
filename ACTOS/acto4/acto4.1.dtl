@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-[background arg="res://Assets/Fondos/Assorted/train_one.webp" fade="0.0"]
+[background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
 join "El Guia/El Guía" center
 "El Guia/El Guía": Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
 join Kaito right [mirrored="true"]
