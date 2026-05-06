@@ -21,12 +21,15 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"El Guia/El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
+"Aiko": "res://Assets/Personajes/Aiko/Aiko.dch",
+"El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
+"Haru": "res://Assets/Personajes/Haru/Haru.dch",
 "Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
 }
 directories/dtl_directory={
-"Escena41-Distrito": "res://ACTOS/acto3/Escena41-Distrito.dtl",
-"acto41": "res://ACTOS/acto4/acto4.1.dtl"
+"acto31": "res://ACTOS/acto3/acto31.dtl",
+"acto32": "res://ACTOS/acto3/acto32.dtl",
+"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
 }
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"
@@ -64,6 +67,8 @@ audio/channel_defaults={
 }
 variables={}
 glossary/default_case_sensitive=true
+layout/style_list=[]
+layout/default_style="Default"
 
 [editor_plugins]
 
