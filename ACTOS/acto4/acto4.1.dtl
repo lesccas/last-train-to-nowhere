@@ -4,12 +4,5 @@ join "El Guia/El Guía" center
 join Kaito right [mirrored="true"]
 Kaito: El aire... huele a gasolina y metal quemado. Como aquella noche.
 "El Guia/El Guía": El olfato es el sentido más difícil de engañar. Puedes mentirle a tus ojos, pero tu nariz recuerda el olor de la tragedia. Mira al fondo del túnel. ¿Qué ves?
-Kaito: <Empty Text Event>
-=======
-[background fade="0.0"]
-join "El Guia/El Guía" center
-"El Guia/El Guía": Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
-join Kaito right [animation="Slide From Right" mirrored="true"]
-Kaito: Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
-"El Guia/El Guía": El olfato es el sentido más difícil de engañar. Puedes mentirle a tus ojos, pero tu nariz recuerda el olor de la tragedia. Mira al fondo del túnel. ¿Qué ves?
->>>>>>> Stashed changes
+Kaito: Veo... el final.
+"El Guia/El Guía": No. Ves el origen. El tren que se acerca no trae pasajeros; trae consecuencias. Cada vagón está cargado con los "ojalá" y los "si tan solo" que has acumulado.
