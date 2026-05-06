@@ -1,0 +1,8 @@
+audio "eco_voces"
+Un susurro atraviesa el espacio.
+No proviene de un lugar concreto.
+Viene de todas partes.
+Kaito: ...
+Kaito: ¿Hola...?
+[wait time="0.3"]
+join Haru center
