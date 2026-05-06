@@ -1,3 +1,4 @@
+# Escena: La niebla de la memoria
 [background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
 join "El Guia/El Guía" center
 "El Guia/El Guía": Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
@@ -6,3 +7,16 @@ Kaito: El aire... huele a gasolina y metal quemado. Como aquella noche.
 "El Guia/El Guía": El olfato es el sentido más difícil de engañar. Puedes mentirle a tus ojos, pero tu nariz recuerda el olor de la tragedia. Mira al fondo del túnel. ¿Qué ves?
 Kaito: Veo... el final.
 "El Guia/El Guía": No. Ves el origen. El tren que se acerca no trae pasajeros; trae consecuencias. Cada vagón está cargado con los "ojalá" y los "si tan solo" que has acumulado.
+leave --All--
+# Escena: El último peaje (aparición de las sombras)
+# Entra Aiko sombra y haru sombra
+join  center
+join  center
+Voz de Aiko (Susurro)\:Kaito... tengo frío. ¿Por qué no encendiste la calefacción? Ah, espera... ya no hay motor. Solo fuego.
+Voz de Haru (Susurro)\: Kaito... tengo frío. ¿Por qué no encendiste la calefacción? Ah, espera... ya no hay motor. Solo fuego.
+join Kaito center
+Kaito: (Gritando) ¡Basta! ¡Yo solo quería que llegáramos a tiempo! ¡Estábamos celebrando!
+join "El Guia/El Guía" center
+# Destinos: buble, aceptación y sacrificio
+"El Guia/El Guía": (Se acerca al primer plano) La celebración es un billete muy caro cuando el conductor bebe del cáliz de la arrogancia. El tren ha llegado. Elige, Kaito. Tu alma es el último objeto que te queda por sacrificar.
+-
