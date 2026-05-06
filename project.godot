@@ -29,6 +29,8 @@ directories/dch_directory={
 directories/dtl_directory={
 "acto31": "res://ACTOS/acto3/acto31.dtl",
 "acto32": "res://ACTOS/acto3/acto32.dtl",
+"acto33": "res://ACTOS/acto3/acto33.dtl",
+"acto34": "res://ACTOS/acto3/acto34.dtl",
 "acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
 }
 layout/style_directory={}

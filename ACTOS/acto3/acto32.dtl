@@ -6,3 +6,18 @@ Kaito: ...
 Kaito: ¿Hola...?
 [wait time="0.3"]
 join Haru center
+Una silueta comienza a formarse entre los reflejos rotos del suelo.
+Deforme. Inestable.
+Haru: ...Kaito...
+Kaito: ¿H-Haru...?
+Haru: ¿Por qué no frenaste, Kaito?
+[wait time="0.3"]
+Kaito: No...
+Haru: El semáforo estaba en rojo...
+Haru: Igual que este lugar.
+Kaito: ¡No es cierto!
+Kaito: ¡Fue un fallo mecánico!
+Kaito: ¡Yo no hice nada!
+[wait time="0.5"]
+<Empty Text Event>
+Pero el reflejo... sonríe.
