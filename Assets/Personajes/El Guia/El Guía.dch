@@ -10,16 +10,25 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "kaito-normal",
+&"default_portrait": "Enfadado",
 &"description": "",
 &"display_name": "El Guía",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-"kaito-normal": {
+"Enfadado": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_normal.png\""
+"image": "\"res://Assets/Personajes/El Guia/el_guia_enfadado.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Normal": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/El Guia/el_guia.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),

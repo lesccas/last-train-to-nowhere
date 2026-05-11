@@ -10,7 +10,7 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Enamorado",
+&"default_portrait": "Normal",
 &"description": "",
 &"display_name": "Kaito",
 &"mirror": false,
@@ -23,7 +23,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 1.0,
 "scene": ""
 },
 "Enfadado": {

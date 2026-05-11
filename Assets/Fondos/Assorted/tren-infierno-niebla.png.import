@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://crttj5quppr13"
-path="res://.godot/imported/idle1.png-36e45cd231999abad8f77849240520bc.ctex"
+uid="uid://clebquvoyom3s"
+path="res://.godot/imported/tren-infierno-niebla.png-cf7be660b2f52ed63c1b7c8ed63ab819.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Personajes/Kaito/idle1.png"
-dest_files=["res://.godot/imported/idle1.png-36e45cd231999abad8f77849240520bc.ctex"]
+source_file="res://Assets/Fondos/Assorted/tren-infierno-niebla.png"
+dest_files=["res://.godot/imported/tren-infierno-niebla.png-cf7be660b2f52ed63c1b7c8ed63ab819.ctex"]
 
 [params]
 

@@ -10,43 +10,34 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Enamorado",
+&"default_portrait": "Crush Normal",
 &"description": "",
-&"display_name": "Kaito",
+&"display_name": "Aiko",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-"Enamorado": {
+"Crush Enfado": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_enamorado.png\""
+"image": "\"res://Assets/Personajes/Crush/crush_enfado.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
 },
-"Enfadado": {
+"Crush Feli": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_enfadado.png\""
+"image": "\"res://Assets/Personajes/Crush/Crush_feli.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
 },
-"Normal": {
+"Crush Normal": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_normal.png\""
-},
-"mirror": false,
-"offset": Vector2(0, 0),
-"scale": 1,
-"scene": ""
-},
-"Triste": {
-"export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_triste.png\""
+"image": "\"res://Assets/Personajes/Crush/Crush_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
