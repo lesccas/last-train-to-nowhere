@@ -21,17 +21,19 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"Aiko": "res://Assets/Personajes/Aiko/Aiko.dch",
+"Aiko": "res://Personajes/Aiko.dch",
 "El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
-"Haru": "res://Assets/Personajes/Haru/Haru.dch",
-"Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
+"Haru": "res://Personajes/Haru.dch",
+"Kaito": "res://Personajes/Kaito.dch"
 }
 directories/dtl_directory={
+"La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
 "acto31": "res://ACTOS/acto3/acto31.dtl",
 "acto32": "res://ACTOS/acto3/acto32.dtl",
 "acto33": "res://ACTOS/acto3/acto33.dtl",
 "acto34": "res://ACTOS/acto3/acto34.dtl",
-"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
+"acto4.1": "res://ACTOS/acto4/acto4.1.dtl",
+"timeline": "res://ACTOS/acto1/El comienzo.dtl"
 }
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"
@@ -70,7 +72,7 @@ audio/channel_defaults={
 variables={}
 glossary/default_case_sensitive=true
 layout/style_list=[]
-layout/default_style="Default"
+layout/default_style=""
 
 [editor_plugins]
 

@@ -10,43 +10,34 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Normal",
+&"default_portrait": "El Amigo",
 &"description": "",
-&"display_name": "Kaito",
+&"display_name": "Haru",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-"Enamorado": {
+"Amigo Enfadado": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_enamorado.png\""
-},
-"mirror": false,
-"offset": Vector2(0, 0),
-"scale": 1.0,
-"scene": ""
-},
-"Enfadado": {
-"export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_enfadado.png\""
+"image": "\"res://Assets/Personajes/amigo/amigo_enfadado.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
 },
-"Normal": {
+"Amigo Triste": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_normal.png\""
+"image": "\"res://Assets/Personajes/amigo/amigo_triste.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
 },
-"Triste": {
+"El Amigo": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_triste.png\""
+"image": "\"res://Assets/Personajes/amigo/el_amigo.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
