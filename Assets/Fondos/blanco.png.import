@@ -2,16 +2,12 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cnhm2i8arvr1h"
-path="res://.godot/imported/el_amigo.png-c9adc8d3bf348a15ddd19e885a82085f.ctex"
-metadata={
-"vram_texture": false
-}
+uid="uid://bvsrinogvvs0h"
+valid=false
 
 [deps]
 
-source_file="res://Assets/Personajes/amigo/el_amigo.png"
-dest_files=["res://.godot/imported/el_amigo.png-c9adc8d3bf348a15ddd19e885a82085f.ctex"]
+source_file="res://Assets/Fondos/blanco.png"
 
 [params]
 

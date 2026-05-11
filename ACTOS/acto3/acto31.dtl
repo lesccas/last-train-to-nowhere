@@ -1,5 +1,4 @@
-[background arg="cristales_suelo" fade="2.0"]
-audio "pisos_cristales" [bus=""]
+[background arg="res://Assets/Fondos/Modern Urban/street_background_04.webp" fade="2.0"]
 join Kaito center
 El aire es denso. Cada respiración pesa más de lo normal.
 Un silencio antinatural lo envuelve todo.

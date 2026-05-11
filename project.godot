@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="last-train-to-nowhere"
+run/main_scene="uid://ddubt2fvmht8o"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -31,6 +32,9 @@ directories/dtl_directory={
 "acto32": "res://ACTOS/acto3/acto32.dtl",
 "acto33": "res://ACTOS/acto3/acto33.dtl",
 "acto34": "res://ACTOS/acto3/acto34.dtl",
+"acto35": "res://ACTOS/acto3/acto35.dtl",
+"acto36": "res://ACTOS/acto3/acto36.dtl",
+"acto37": "res://ACTOS/acto3/acto37.dtl",
 "acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
 }
 layout/style_directory={}

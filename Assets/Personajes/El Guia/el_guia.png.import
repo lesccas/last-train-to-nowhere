@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cnhm2i8arvr1h"
-path="res://.godot/imported/el_amigo.png-c9adc8d3bf348a15ddd19e885a82085f.ctex"
+uid="uid://0vuvepuk84of"
+path="res://.godot/imported/el_guia.png-c364262ef7399999bc0611c2778908a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Personajes/amigo/el_amigo.png"
-dest_files=["res://.godot/imported/el_amigo.png-c9adc8d3bf348a15ddd19e885a82085f.ctex"]
+source_file="res://Assets/Personajes/El Guia/el_guia.png"
+dest_files=["res://.godot/imported/el_guia.png-c364262ef7399999bc0611c2778908a5.ctex"]
 
 [params]
 
