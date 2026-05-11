@@ -20,19 +20,8 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 [dialogic]
 
-directories/dch_directory={
-"Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
-"El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
-"Haru": "res://Assets/Personajes/amigo/Haru.dch",
-"Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
-}
-directories/dtl_directory={
-"acto31": "res://ACTOS/acto3/acto31.dtl",
-"acto32": "res://ACTOS/acto3/acto32.dtl",
-"acto33": "res://ACTOS/acto3/acto33.dtl",
-"acto34": "res://ACTOS/acto3/acto34.dtl",
-"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
-}
+directories/dch_directory={}
+directories/dtl_directory={}
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"
 text/letter_speed=0.01
