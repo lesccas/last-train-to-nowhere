@@ -21,7 +21,10 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"El Guía": "res://Assets/Personajes/El Guia/El Guía.dch"
+"Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
+"El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
+"Haru": "res://Assets/Personajes/amigo/Haru.dch",
+"Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
 }
 directories/dtl_directory={
 "acto31": "res://ACTOS/acto3/acto31.dtl",
