@@ -2,7 +2,7 @@
 [background arg="res://Assets/Fondos/Assorted/train-en-infierno.png" fade="0.0"]
 join "El Guía" center
 "El Guia/El Guía": Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
-join Kaito right [mirrored="true"]
+join  right [mirrored="true"]
 Kaito: El aire... huele a gasolina y metal quemado. Como aquella noche.
 "El Guia/El Guía": El olfato es el sentido más difícil de engañar. Puedes mentirle a tus ojos, pero tu nariz recuerda el olor de la tragedia. Mira al fondo del túnel. ¿Qué ves?
 Kaito: Veo... el final.
@@ -10,11 +10,11 @@ Kaito: Veo... el final.
 leave --All--
 # Escena: El último peaje (aparición de las sombras)
 # Entra Aiko sombra y haru sombra
-join Aiko left
+join  left
 (Susurro)\:Kaito... tengo frío. ¿Por qué no encendiste la calefacción? Ah, espera... ya no hay motor. Solo fuego.
-join Haru right
+join  right
 Haru: (Susurro)\: Kaito... tengo frío. ¿Por qué no encendiste la calefacción? Ah, espera... ya no hay motor. Solo fuego.
-join Kaito center
+join  center
 Kaito: (Gritando) ¡Basta! ¡Yo solo quería que llegáramos a tiempo! ¡Estábamos celebrando!
 join  center
 # Destinos: buble, aceptación y sacrificio
