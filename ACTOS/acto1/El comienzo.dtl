@@ -6,13 +6,13 @@
 [narration] Kaito, con su pelo azul medianoche revuelto, bosteza mientras se despereza[cite\: 1].
 [narration] El sol acaricia su brazo, iluminando el tatuaje de constelación que lleva en la piel[cite\: 1].
 [narration] De fondo, se escucha el chisporroteo de una sartén y alguien canturreando desafinado.
-join Kaito center
+join  center
 
-Kaito (Normal): (Huele a... vainilla y mantequilla. Haru ya está haciendo de las suyas.)
+Kaito/Kaito (Normal): (Huele a... vainilla y mantequilla. Haru ya está haciendo de las suyas.)
 Kaito (Normal): (Me duele un poco la cabeza. Una punzada sorda justo detrás de los ojos. Será por estudiar hasta tarde.)
 [narration] La puerta se abre de golpe. Haru entra, lleno de energía y vida, llevando un delantal ridículo y una espátula a modo de micrófono[cite\: 1].
-update Kaito (Normal) right [fade="Fade Cross"]
-join Haru left
+update Kaito/Kaito right [fade="Fade Cross"]
+join amigo/Haru left
 
 
 Haru: ¡Vamos, Kaito! Despierta, Bella Durmiente. Las tortitas no se van a comer solas[cite\: 1].
