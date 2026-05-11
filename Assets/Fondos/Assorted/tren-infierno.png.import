@@ -2,17 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b614sjqx8ytwi"
-uid="uid://d3th4f1olr6sk"
-path="res://.godot/imported/amigo_enfadado.png-1e9c75ff51a7d54cbb693f57bb33e982.ctex"
+uid="uid://bikondsd3qul6"
+path="res://.godot/imported/tren-infierno.png-03aca1cfa422c100cb9e5fc33ee349cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Personajes/amigo/amigo_enfadado.png"
-dest_files=["res://.godot/imported/amigo_enfadado.png-1e9c75ff51a7d54cbb693f57bb33e982.ctex"]
+source_file="res://Assets/Fondos/Assorted/tren-infierno.png"
+dest_files=["res://.godot/imported/tren-infierno.png-03aca1cfa422c100cb9e5fc33ee349cf.ctex"]
 
 [params]
 
