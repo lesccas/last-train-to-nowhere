@@ -19,7 +19,7 @@
 &"portraits": {
 "idle": {
 "export_overrides": {
-"image": "\"\""
+"image": "\"res://Assets/Personajes/Kaito/kaito_normal.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
