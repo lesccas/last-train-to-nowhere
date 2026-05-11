@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="last-train-to-nowhere"
+run/main_scene="uid://ddubt2fvmht8o"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -21,26 +22,20 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-<<<<<<< HEAD
 "Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
 "El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
 "Haru": "res://Assets/Personajes/amigo/Haru.dch",
 "Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
-=======
-"Aiko": "res://Personajes/Aiko.dch",
-"El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
-"Haru": "res://Personajes/Haru.dch",
-"Kaito": "res://Personajes/Kaito.dch"
->>>>>>> Kemuel
 }
 directories/dtl_directory={
-"La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
 "acto31": "res://ACTOS/acto3/acto31.dtl",
 "acto32": "res://ACTOS/acto3/acto32.dtl",
 "acto33": "res://ACTOS/acto3/acto33.dtl",
 "acto34": "res://ACTOS/acto3/acto34.dtl",
-"acto4.1": "res://ACTOS/acto4/acto4.1.dtl",
-"timeline": "res://ACTOS/acto1/El comienzo.dtl"
+"acto35": "res://ACTOS/acto3/acto35.dtl",
+"acto36": "res://ACTOS/acto3/acto36.dtl",
+"acto37": "res://ACTOS/acto3/acto37.dtl",
+"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
 }
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"
@@ -79,7 +74,7 @@ audio/channel_defaults={
 variables={}
 glossary/default_case_sensitive=true
 layout/style_list=[]
-layout/default_style=""
+layout/default_style="Default"
 
 [editor_plugins]
 

@@ -1,0 +1,24 @@
+[wait time="0.3"]
+Las figuras comienzan a distorsionarse.
+Como si el mundo las estuviera borrando.
+Haru: ...Kaito...
+Haru: Aún puedes detenerlo...
+Aiko: Recuerda...
+Aiko: Por favor...
+[wait time="0.5"]
+Haru empieza a desvanecerse.
+Haru: ...frena...
+leave Haru
+[wait time="0.4"]
+Su voz se queda flotando un instante más.
+Luego se rompe.
+[wait time="0.3"]
+Aiko retrocede lentamente.
+Aiko: No nos olvides...
+[wait time="0.5"]
+leave Aiko
+Su silueta se fragmenta como vidrio.
+El rojo se apaga.
+[wait time="0.5"]
+Silencio absoluto.
+Kaito está solo.
