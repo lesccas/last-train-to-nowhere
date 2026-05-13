@@ -3,13 +3,47 @@
 "@subpath": NodePath(""),
 &"_translation_id": "",
 &"color": Color(1, 1, 1, 1),
-&"custom_info": {},
-&"default_portrait": "",
+&"custom_info": {
+"prefix": "",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+&"default_portrait": "Crush Normal",
 &"description": "",
 &"display_name": "Aiko",
 &"mirror": false,
-&"nicknames": [],
+&"nicknames": [""],
 &"offset": Vector2(0, 0),
-&"portraits": {},
+&"portraits": {
+"Crush Enfado": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Crush/crush_enfado.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Crush Feli": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Crush/Crush_feli.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Crush Normal": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Crush/Crush_normal.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
 &"scale": 1.0
 }
