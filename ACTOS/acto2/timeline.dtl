@@ -1,5 +1,5 @@
-Narrador: Kaito despierta bruscamente. El aire en el vagón es pesado, saturado de un olor a ozono y metal oxidado. El traqueteo del tren es ensordecedor. Kaito se levanta tambaleándose, con su camisa blanca arrugada y el pelo oscuro revuelto, e intenta desesperadamente comprender su entorno.
 [background arg="res://Assets/Fondos/Assorted/train_one.webp" fade="0.0"]
+Narrador: Kaito despierta bruscamente. El aire en el vagón es pesado, saturado de un olor a ozono y metal oxidado. El traqueteo del tren es ensordecedor. Kaito se levanta tambaleándose, con su camisa blanca arrugada y el pelo oscuro revuelto, e intenta desesperadamente comprender su entorno.
 join Kaito (Kaito Enfadado) center
 
 Kaito (Kaito Enfadado): (Golpeando el cristal de la puerta) ¿Qué es esto? ¿Dónde está todo el mundo? ¡Oiga! ¡Usted! ¿Dónde estamos?
