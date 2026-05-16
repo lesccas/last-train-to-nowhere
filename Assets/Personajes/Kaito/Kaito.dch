@@ -17,6 +17,24 @@
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
+"Desesperado": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Kaito/kaito_desesperado.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Desesperado_PrimerPlano": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Kaito/kaito_desesperado_PrimerPlano.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
 "Enamorado": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/Kaito/kaito_enamorado.png\""
@@ -44,9 +62,27 @@
 "scale": 1,
 "scene": ""
 },
+"Preocupado": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Kaito/kaito_preocupado.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
 "Triste": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/Kaito/kaito_triste.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Triste_PrimerPlano": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Kaito/kaito_triste_primer_plano.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
