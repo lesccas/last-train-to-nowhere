@@ -26,6 +26,7 @@
 "scale": 1,
 "scene": ""
 },
+<<<<<<< HEAD
 "Amigo Sombra": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/amigo/amigo_sombra.png\""
@@ -35,6 +36,8 @@
 "scale": 1,
 "scene": ""
 },
+=======
+>>>>>>> Windely
 "Amigo Triste": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/amigo/amigo_triste.png\""

@@ -1,0 +1,40 @@
+[background arg="res://Assets/Fondos/Assorted/train_one.webp" fade="0.0"]
+Narrador: Kaito despierta bruscamente. El aire en el vagón es pesado, saturado de un olor a ozono y metal oxidado. El traqueteo del tren es ensordecedor. Kaito se levanta tambaleándose, con su camisa blanca arrugada y el pelo oscuro revuelto, e intenta desesperadamente comprender su entorno.
+join Kaito (Kaito Enfadado) center
+
+Kaito (Kaito Enfadado): (Golpeando el cristal de la puerta) ¿Qué es esto? ¿Dónde está todo el mundo? ¡Oiga! ¡Usted! ¿Dónde estamos?
+
+Narrador: De la penumbra al final del vagón, surge una figura alta y elegante, pero profundamente perturbadora. Viste una chaqueta marrón sobre un chaleco verde y lleva guantes de cuero impecables.
+
+Narrador: Su rostro es severo, enmarcado por unas gafas de montura fina, pero hay algo antinatural en él\: la parte superior de su cabello parece disolverse constantemente en partículas oscuras, como ceniza flotando en el aire.
+join "El Guía" (El Guia) right
+
+Kaito (Kaito Enfadado): ¡Quiero salir! ¡Tengo que volver a casa!
+
+Kaito (Kaito Enfadado): ¡He dicho que quiero salir!
+join "El Guía" (El Guia) right
+
+Guia: Para volver, necesitas un billete. Y los billetes aquí se pagan con recuerdos. ¿Qué estarías dispuesto a olvidar para dar un paso más hacia la salida?
+
+Narrador: Kaito, consumido por la necesidad de escapar, cierra los ojos con fuerza y asiente, entregando el primer recuerdo cálido que encuentra en su mente\: el sabor del desayuno que su amigo Haru solía prepararle.
+[background arg="res://Assets/Fondos/Modern Urban/pancakes-anime-style.jpg" fade="0.0"]
+leave "El Guía"
+join Haru (El Amigo) right [animation="Fade In"]
+join Kaito (Kaito Triste) center
+
+Narrador: Kaito siente un escalofrío helado recorrer su columna. En un instante, la calidez de aquel recuerdo se extingue. La imagen de Haru cocinando se vuelve gris y borrosa. Intenta evocar el dulzor de aquel desayuno, pero solo encuentra un hueco estéril. Acaba de olvidar que alguna vez le gustaron las tortitas.
+leave Haru [animation="Fade In"]
+join "El Guía" (El Guia) right [animation="Fade In"]
+[background arg="res://Assets/Fondos/Assorted/train_one.webp" fade="0.0"]
+
+Narrador: Mientras el recuerdo de Kaito se disuelve, la figura del Guía comienza a mutar frente a sus ojos. La transformación es brutal y repentina. Los guantes de cuero parecen desintegrarse cuando las manos de la entidad se alargan, convirtiéndose en grotescas garras demoníacas y afiladas.
+join "El Guía" (El Guia Enfadado) right
+
+Narrador: Su rostro humano se deshace; la piel retrocede violentamente para revelar un cráneo de pesadilla, de carne expuesta y hueso, coronado por dos pequeños cuernos oscuros. Sus ojos, antes fríos y analíticos tras las gafas, son ahora dos ardientes focos de luz roja.
+
+Kaito (Kaito Triste): (En un susurro derrotado, paralizado frente a la criatura demoníaca) Lo acepto... y... ya no sé qué es una tortita.
+leave Kaito [animation="Fade In"]
+join "El Guía" (El Guia Enfadado) center
+[background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
+
+Narrador: Como respuesta a su sacrificio, un chirrido agónico inunda el vagón y la puerta del metro, justo frente a las garras del Guía, se abre de par en par, revelando un andén cubierto de ceniza.
