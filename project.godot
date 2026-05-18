@@ -22,12 +22,18 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"Crush/Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
+"Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
+"Aiko/Aiko": "res://Assets/Personajes/Aiko/Aiko.dch",
 "El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
-"Kaito/Kaito": "res://Assets/Personajes/Kaito/Kaito.dch",
-"amigo/Haru": "res://Assets/Personajes/amigo/Haru.dch"
+"Haru": "res://Assets/Personajes/amigo/Haru.dch",
+"Haru/Haru": "res://Assets/Personajes/Haru/Haru.dch",
+"Kaito": "res://Assets/Personajes/Kaito/Kaito.dch",
+"Personajes/Aiko": "res://Personajes/Aiko.dch",
+"Personajes/Haru": "res://Personajes/Haru.dch",
+"Personajes/Kaito": "res://Personajes/Kaito.dch"
 }
 directories/dtl_directory={
+"El comienzo": "res://ACTOS/acto1/El comienzo.dtl",
 "La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
 "acto31": "res://ACTOS/acto3/acto31.dtl",
 "acto32": "res://ACTOS/acto3/acto32.dtl",
@@ -36,8 +42,7 @@ directories/dtl_directory={
 "acto35": "res://ACTOS/acto3/acto35.dtl",
 "acto36": "res://ACTOS/acto3/acto36.dtl",
 "acto37": "res://ACTOS/acto3/acto37.dtl",
-"acto4.1": "res://ACTOS/acto4/acto4.1.dtl",
-"timeline": "res://ACTOS/acto1/El comienzo.dtl"
+"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
 }
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"
