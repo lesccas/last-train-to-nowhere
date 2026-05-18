@@ -11,11 +11,7 @@ config_version=5
 [application]
 
 config/name="last-train-to-nowhere"
-<<<<<<< HEAD
 run/main_scene="uid://ddubt2fvmht8o"
-=======
-run/main_scene="uid://1so2l1sak7ph"
->>>>>>> Windely
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -27,34 +23,18 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 directories/dch_directory={
 "Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
-"Aiko/Aiko": "res://Assets/Personajes/Aiko/Aiko.dch",
 "El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
 "Haru": "res://Assets/Personajes/amigo/Haru.dch",
-"Haru/Haru": "res://Assets/Personajes/Haru/Haru.dch",
 "Kaito": "res://Assets/Personajes/Kaito/Kaito.dch",
 "Personajes/Aiko": "res://Personajes/Aiko.dch",
 "Personajes/Haru": "res://Personajes/Haru.dch",
 "Personajes/Kaito": "res://Personajes/Kaito.dch"
 }
 directories/dtl_directory={
-<<<<<<< HEAD
 "El comienzo": "res://ACTOS/acto1/El comienzo.dtl",
 "La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
-"acto31": "res://ACTOS/acto3/acto31.dtl",
-"acto32": "res://ACTOS/acto3/acto32.dtl",
-"acto33": "res://ACTOS/acto3/acto33.dtl",
-"acto34": "res://ACTOS/acto3/acto34.dtl",
-"acto35": "res://ACTOS/acto3/acto35.dtl",
-"acto36": "res://ACTOS/acto3/acto36.dtl",
-"acto37": "res://ACTOS/acto3/acto37.dtl",
+"acto3": "res://ACTOS/acto3/acto3.dtl",
 "acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
-=======
-"acto32": "res://ACTOS/acto3/acto32.dtl",
-"acto33": "res://ACTOS/acto3/acto33.dtl",
-"acto34": "res://ACTOS/acto3/acto34.dtl",
-"acto4.1": "res://ACTOS/acto4/acto4.1.dtl",
-"timeline": "res://ACTOS/acto2/timeline.dtl"
->>>>>>> Windely
 }
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"

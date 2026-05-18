@@ -10,18 +10,13 @@
 "style": "",
 "suffix": ""
 },
-<<<<<<< HEAD
 &"default_portrait": "Aiko-sombra",
-=======
-&"default_portrait": "Crush Normal",
->>>>>>> Windely
 &"description": "",
 &"display_name": "Aiko",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-<<<<<<< HEAD
 "Aiko-sombra": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/Crush/aiko_sombra.png\""
@@ -32,8 +27,6 @@
 "scale": 1,
 "scene": ""
 },
-=======
->>>>>>> Windely
 "Crush Enfado": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/Crush/crush_enfado.png\""
