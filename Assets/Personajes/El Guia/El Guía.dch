@@ -10,18 +10,13 @@
 "style": "",
 "suffix": ""
 },
-<<<<<<< HEAD
 &"default_portrait": "Enfadado",
-=======
-&"default_portrait": "El Guia",
->>>>>>> Windely
 &"description": "",
 &"display_name": "El Guía",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-<<<<<<< HEAD
 "Enfadado": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/El Guia/el_guia_enfadado.png\""
@@ -42,10 +37,6 @@
 },
 "Normal": {
 "export_overrides": {
-=======
-"El Guia": {
-"export_overrides": {
->>>>>>> Windely
 "image": "\"res://Assets/Personajes/El Guia/el_guia.png\""
 },
 "mirror": false,
@@ -53,15 +44,9 @@
 "scale": 1,
 "scene": ""
 },
-<<<<<<< HEAD
 "Normal_PrimerPlano": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/El Guia/el_guia_primer plano.png\""
-=======
-"El Guia Enfadado": {
-"export_overrides": {
-"image": "\"res://Assets/Personajes/El Guia/el_guia_enfadado.png\""
->>>>>>> Windely
 },
 "mirror": false,
 "offset": Vector2(0, 0),
