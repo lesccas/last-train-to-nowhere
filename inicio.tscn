@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bdlnydkw2sdpr"]
+
+[ext_resource type="Script" uid="uid://ctx5cmr0a40sk" path="res://inicio.gd" id="1_ylum6"]
+
+[node name="Inicio" type="Node2D" unique_id=1884464112]
+script = ExtResource("1_ylum6")

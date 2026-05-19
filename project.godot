@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="last-train-to-nowhere"
-run/main_scene="uid://ddubt2fvmht8o"
+run/main_scene="uid://bdlnydkw2sdpr"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
