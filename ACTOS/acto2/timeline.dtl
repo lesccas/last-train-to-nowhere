@@ -33,7 +33,7 @@ join "El Guía" (El Guia Enfadado) right
 Narrador: Su rostro humano se deshace; la piel retrocede violentamente para revelar un cráneo de pesadilla, de carne expuesta y hueso, coronado por dos pequeños cuernos oscuros. Sus ojos, antes fríos y analíticos tras las gafas, son ahora dos ardientes focos de luz roja.
 
 Kaito (Kaito Triste): (En un susurro derrotado, paralizado frente a la criatura demoníaca) Lo acepto... y... ya no sé qué es una tortita.
-leave Kaito [animation="Fade In"]
+leave Kaito
 join "El Guía" (El Guia Enfadado) center [animation="Zoom In"]
 [background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
 
