@@ -10,13 +10,23 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Crush Normal",
+&"default_portrait": "Aiko-sombra",
 &"description": "",
 &"display_name": "Aiko",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
+"Aiko-sombra": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/Crush/aiko_sombra.png\""
+},
+"ignore_char_scale": false,
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
 "Crush Enfado": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/Crush/crush_enfado.png\""

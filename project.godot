@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="last-train-to-nowhere"
-run/main_scene="uid://1so2l1sak7ph"
+run/main_scene="uid://ddubt2fvmht8o"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -25,14 +25,16 @@ directories/dch_directory={
 "Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
 "El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
 "Haru": "res://Assets/Personajes/amigo/Haru.dch",
-"Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
+"Kaito": "res://Assets/Personajes/Kaito/Kaito.dch",
+"Personajes/Aiko": "res://Personajes/Aiko.dch",
+"Personajes/Haru": "res://Personajes/Haru.dch",
+"Personajes/Kaito": "res://Personajes/Kaito.dch"
 }
 directories/dtl_directory={
-"acto32": "res://ACTOS/acto3/acto32.dtl",
-"acto33": "res://ACTOS/acto3/acto33.dtl",
-"acto34": "res://ACTOS/acto3/acto34.dtl",
-"acto4.1": "res://ACTOS/acto4/acto4.1.dtl",
-"timeline": "res://ACTOS/acto2/timeline.dtl"
+"El comienzo": "res://ACTOS/acto1/El comienzo.dtl",
+"La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
+"acto3": "res://ACTOS/acto3/acto3.dtl",
+"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
 }
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"

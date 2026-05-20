@@ -1,38 +1,54 @@
 # Escena: La niebla de la memoria
-[background arg="res://Assets/Fondos/Assorted/train-en-infierno.png" fade="0.0"]
-join "El Guía" left
-"El Guia/El Guía": Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
-join Kaito right [mirrored="true"]
+[background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
+join "El Guía" (Normal) left
+"El Guía": Los raíles terminan aquí, Kaito. ¿Sientes ese frío? No es el aire del túnel. Es el vacío de los momentos que intentaste borrar.
+join Kaito (Preocupado) right [mirrored="true"]
 Kaito: El aire... huele a gasolina y metal quemado. Como aquella noche.
-"El Guia/El Guía": El olfato es el sentido más difícil de engañar. Puedes mentirle a tus ojos, pero tu nariz recuerda el olor de la tragedia. Mira al fondo del túnel. ¿Qué ves?
+"El Guía": El olfato es el sentido más difícil de engañar. Puedes mentirle a tus ojos, pero tu nariz recuerda el olor de la tragedia. Mira al fondo del túnel. ¿Qué ves?
+...
+[wait time="2.0"]
 Kaito: Veo... el final.
-"El Guia/El Guía": No. Ves el origen. El tren que se acerca no trae pasajeros; trae consecuencias. Cada vagón está cargado con los "ojalá" y los "si tan solo" que has acumulado.
-leave --All--
+leave Kaito
+update "El Guía" (Enfadado_PrimerPlano) center
+"El Guía": No. Ves el origen. El tren que se acerca no trae pasajeros; trae consecuencias. Cada vagón está cargado con los "ojalá" y los "si tan solo" que has acumulado.
+leave "El Guía"
 # Escena: El último peaje (aparición de las sombras)
-# Entra Aiko sombra y haru sombra
-join  left
-(Susurro)\:Kaito... tengo frío. ¿Por qué no encendiste la calefacción? Ah, espera... ya no hay motor. Solo fuego.
-join  right
-Haru: (Susurro)\: Kaito... tengo frío. ¿Por qué no encendiste la calefacción? Ah, espera... ya no hay motor. Solo fuego.
-join  center
-Kaito: (Gritando) ¡Basta! ¡Yo solo quería que llegáramos a tiempo! ¡Estábamos celebrando!
-join  center
+[background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
+# Entra Aiko sombra y Haru sombra
+join Kaito (Triste_PrimerPlano) center
+[wait time="1.0"]
+join Haru (Amigo Sombra) rightmost
+Haru: Kaito... tengo frío. ¿Por qué no encendiste la calefacción? Ah, espera... ya no hay motor. Solo fuego.
+join Aiko leftmost
+Aiko: Tenías el tatuaje de la constelación en el brazo... me dijiste que las estrellas nos guiarían a casa. Pero las estrellas se apagaron cuando cerraste los ojos al volante.
+leave Haru [animation="Zoom Out"]
+leave Aiko [animation="Zoom Out"]
+Kaito (Desesperado_PrimerPlano): ¡BASTA! ¡Yo solo quería que llegáramos a tiempo! ¡Estábamos celebrando!
 # Destinos: buble, aceptación y sacrificio
-"El Guia/El Guía": (Se acerca al primer plano) La celebración es un billete muy caro cuando el conductor bebe del cáliz de la arrogancia. El tren ha llegado. Elige, Kaito. Tu alma es el último objeto que te queda por sacrificar.
+update Kaito (Desesperado) rightmost
+join "El Guía" (Enfadado_PrimerPlano) center
+"El Guía": La celebración es un billete muy caro cuando el conductor bebe del cáliz de la arrogancia. El tren ha llegado. Elige, Kaito. Tu alma es el último objeto que te queda por sacrificar.
 - "¡No es real! ¡Nada de esto es real!"
+	update "El Guía" left
+	update Kaito right
 	Kaito: ¡No es real! ¡Nada de esto es real! ¡Sois solo proyecciones de mi culpa! ¡Yo no maté a nadie!
-	"El Guia/El Guía": Si no hay culpa, no hay salida. Si no hay salida, solo queda el viaje eterno.
+	"El Guía": Si no hay culpa, no hay salida. Si no hay salida, solo queda el viaje eterno.
 	Kaito: ¡Sácame de aquí! ¡Quiero volver a mi habitación! ¡Quiero que Haru me despierte!
-	"El Guia/El Guía": Concedido. Volverás al inicio. Pero cada vez que el coche choque en tu mente, el dolor será un 1% más real. Hasta que no quede nada de ti.
+	"El Guía": Concedido. Volverás al inicio. Pero cada vez que el coche choque en tu mente, el dolor será un 1% más real. Hasta que no quede nada de ti.
+	leave --All--
 	[background arg="res://Assets/Fondos/Assorted/train_station_night copy.webp" fade="0.1"]
 	[jump timeline="res\://ACTOS/acto4/acto4.1.dtl"]
 - "Tenéis razón... fui yo."
-	Kaito: Tenéis razón. No fue el coche. No fue la carretera mojada. Fui yo. Fui un egoísta que se creyó invencible.
+	update "El Guía" leftmost
+	update Kaito center
+	Kaito (Triste): Tenéis razón. No fue el coche. No fue la carretera mojada. Fui yo. Fui un egoísta que se creyó invencible.
 	Kaito: Haru, Aiko... no puedo devolveros la vida. Pero puedo dejar de reteneros en esta pesadilla. Subid al tren. Yo me quedaré aquí a pagar la cuenta.
-	Aiko/Aiko: Por fin... nos dejas ir.
-	leave 
-	leave 
-	"El Guia/El Guía": Has pagado con lo único que el infierno no puede quitarte\: la verdad. Ahora, despierta al mundo de los vivos. Te espera una celda de piedra, pero tu mente será, por fin, libre.
+	join Aiko right
+	join Haru rightmost
+	Aiko: Por fin... nos dejas ir...
+	leave --All--
+	join "El Guía" (Enfadado_PrimerPlano) center
+	"El Guía": Has pagado con lo único que el infierno no puede quitarte\: la verdad. Ahora, despierta al mundo de los vivos. Te espera una celda de piedra, pero tu mente será, por fin, libre.
 	[wait time="2.0"]
 	Beep... Beep...
 	[wait time="1.0"]
@@ -40,14 +56,16 @@ join  center
 	[wait time="2.0"]
 	El tren de las 00\:00 nunca llegó a su destino. Pero en algún lugar del tiempo, tres amigos siguen riendo en una parada de autobús, bajo la lluvia, esperando un transporte que nunca llegará.
 - "¿Y si detengo el eco antes de que nazca?"
+	update "El Guía" left
+	update Kaito right
 	Kaito: El Guía... dijiste que este lugar es el eco de un estruendo. Si detengo el eco antes de que nazca... ¿se salvarán?
-	"El Guia/El Guía": Estás hablando de borrarte a ti mismo de la ecuación. Si saltas a las vías antes de que el tren te toque, romperás el ciclo, pero tú dejarás de existir en todas las realidades.
+	"El Guía": Estás hablando de borrarte a ti mismo de la ecuación. Si saltas a las vías antes de que el tren te toque, romperás el ciclo, pero tú dejarás de existir en todas las realidades.
 	Kaito: Es un precio justo por sus sonrisas. No quiero un futuro donde ellos no estén.
-	"El Guia/El Guía": Entonces salta, tejedor de constelaciones. Convierte tu culpa en un nuevo Big Bang.
+	"El Guía": Entonces salta, tejedor de constelaciones. Convierte tu culpa en un nuevo Big Bang.
 	leave --All--
 	[wait time="1.5"]
 	[background fade="3.0"]
 	[wait time="1.0"]
-	Kaito (Voz en off)\: No subas, Haru. Hoy... hoy caminaremos bajo las estrellas.
+	Kaito: No subas, Haru. Hoy... hoy caminaremos bajo las estrellas.
 	[wait time="2.0"]
 	El tren de las 00\:00 nunca llegó a su destino. Pero en algún lugar del tiempo, tres amigos siguen riendo en una parada de autobús, bajo la lluvia, esperando un transporte que nunca llegará.

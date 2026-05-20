@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://chefumus8rf3g"
-path="res://.godot/imported/Assests de Kaito.png-ee9b217cf74a8902505c1bf547786ea7.ctex"
+uid="uid://clebquvoyom3s"
+path="res://.godot/imported/tren-infierno-niebla.png-cf7be660b2f52ed63c1b7c8ed63ab819.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Personajes/Kaito/Assests de Kaito.png"
-dest_files=["res://.godot/imported/Assests de Kaito.png-ee9b217cf74a8902505c1bf547786ea7.ctex"]
+source_file="res://Assets/Fondos/Assorted/tren-infierno-niebla.png"
+dest_files=["res://.godot/imported/tren-infierno-niebla.png-cf7be660b2f52ed63c1b7c8ed63ab819.ctex"]
 
 [params]
 

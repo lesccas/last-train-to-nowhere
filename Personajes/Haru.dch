@@ -10,7 +10,7 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Amigo Enfadado",
+&"default_portrait": "El Amigo",
 &"description": "",
 &"display_name": "Haru",
 &"mirror": false,
@@ -20,15 +20,6 @@
 "Amigo Enfadado": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/amigo/amigo_enfadado.png\""
-},
-"mirror": false,
-"offset": Vector2(0, 0),
-"scale": 1,
-"scene": ""
-},
-"Amigo Sombra": {
-"export_overrides": {
-"image": "\"res://Assets/Personajes/amigo/amigo_sombra.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),

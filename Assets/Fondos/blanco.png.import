@@ -2,16 +2,12 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blyk4lf6eby1f"
-path="res://.godot/imported/pancakes-anime-style.jpg-490a9c0c3a5893a27bb976419044390d.ctex"
-metadata={
-"vram_texture": false
-}
+uid="uid://bvsrinogvvs0h"
+valid=false
 
 [deps]
 
-source_file="res://Assets/Fondos/Modern Urban/pancakes-anime-style.jpg"
-dest_files=["res://.godot/imported/pancakes-anime-style.jpg-490a9c0c3a5893a27bb976419044390d.ctex"]
+source_file="res://Assets/Fondos/blanco.png"
 
 [params]
 

@@ -1,0 +1,38 @@
+[background arg="res://Assets/Fondos/Assorted/room.webp" fade="0.0"]
+
+[narration] A veces, la felicidad es tan frágil que no te das cuenta de que la tienes hasta que se rompe.
+[narration] Pero esta mañana... esta mañana todo está bien. Todo es perfecto.
+
+[narration] Kaito, con su pelo azul medianoche revuelto, bosteza mientras se despereza[cite\: 1].
+[narration] El sol acaricia su brazo, iluminando el tatuaje de constelación que lleva en la piel[cite\: 1].
+[narration] De fondo, se escucha el chisporroteo de una sartén y alguien canturreando desafinado.
+join Kaito center
+
+Kaito (Normal): (Huele a... vainilla y mantequilla. Haru ya está haciendo de las suyas.)
+Kaito (Normal): (Me duele un poco la cabeza. Una punzada sorda justo detrás de los ojos. Será por estudiar hasta tarde.)
+[narration] La puerta se abre de golpe. Haru entra, lleno de energía y vida, llevando un delantal ridículo y una espátula a modo de micrófono[cite\: 1].
+update Kaito (Normal) right [fade="Fade Cross"]
+join Haru left
+
+
+Haru: ¡Vamos, Kaito! Despierta, Bella Durmiente. Las tortitas no se van a comer solas[cite\: 1].
+Haru: ¡Y me han quedado de rechupete! Nivel estrella Michelin, te lo juro.
+
+Kaito: Mmm... ya voy. ¿Por qué tienes tanta energía hoy? Siento que mi cabeza va a estallar[cite\: 1].
+
+Haru: ¡Porque es viernes, amigo mío! Y esta noche estrenamos el coche. Ya lo tengo revisado y listo para el viaje de fin de semana.
+Haru: Además, Aiko me ha dicho que te espera en la entrada de la uni. Y ya sabes cómo se pone si la hacemos esperar[cite\: 1].
+
+Kaito: Tienes razón. Me visto y salgo.
+[audio play="res\://audio/glitch_fuerte_rojo.ogg"]
+[character update="haru" expression="distorsionado" time="0.1"]
+[character update="haru" expression="feliz" time="0.1"]
+
+[narration] Un destello rojo cruza la pantalla. El rostro de Haru se desdibuja por un segundo, convirtiéndose en una amalgama de carne y sombras[cite\: 1].
+[narration] Kaito parpadea, frotándose los ojos. El dolor de cabeza se intensifica por un instante.
+
+Kaito: ¡Joder!
+Haru: ¿Eh? ¿Te has quemado con el sol o qué? Venga, mueve el culo que se enfría el desayuno.
+[character leave="haru" fade="1"]
+
+Kaito (pensando): (¿Qué ha sido eso? Qué mareo más raro... Necesito un café bien cargado.)

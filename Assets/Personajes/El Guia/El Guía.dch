@@ -10,14 +10,32 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "El Guia",
+&"default_portrait": "Enfadado",
 &"description": "",
 &"display_name": "El Guía",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-"El Guia": {
+"Enfadado": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/El Guia/el_guia_enfadado.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Enfadado_PrimerPlano": {
+"export_overrides": {
+"image": "\"res://Assets/Personajes/El Guia/el_guia_enfadado_PP.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Normal": {
 "export_overrides": {
 "image": "\"res://Assets/Personajes/El Guia/el_guia.png\""
 },
@@ -26,9 +44,9 @@
 "scale": 1,
 "scene": ""
 },
-"El Guia Enfadado": {
+"Normal_PrimerPlano": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/El Guia/el_guia_enfadado.png\""
+"image": "\"res://Assets/Personajes/El Guia/el_guia_PP.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
