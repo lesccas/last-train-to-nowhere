@@ -32,7 +32,8 @@ directories/dtl_directory={
 "El comienzo": "res://ACTOS/acto1/El comienzo.dtl",
 "La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
 "acto3": "res://ACTOS/acto3/acto3.dtl",
-"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
+"acto4.1": "res://ACTOS/acto4/acto4.1.dtl",
+"timeline": "res://ACTOS/acto2/timeline.dtl"
 }
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"

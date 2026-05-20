@@ -38,3 +38,5 @@ Kaito intenta arrancarse los auriculares, pero el sonido viene de dentro de su p
 El vagón del tren parece caer en picado hacia el abismo.
 
 [wait time="1.0"]
+leave --All--
+jump timeline/

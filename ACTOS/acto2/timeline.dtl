@@ -38,3 +38,5 @@ update "El Guía" (El Guia Enfadado) center [animation="Zoom In"]
 [background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
 
 Narrador: Como respuesta a su sacrificio, un chirrido agónico inunda el vagón y la puerta del metro, justo frente a las garras del Guía, se abre de par en par, revelando un andén cubierto de ceniza.
+leave --All--
+jump acto3/
