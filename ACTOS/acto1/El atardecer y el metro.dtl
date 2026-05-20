@@ -1,0 +1,40 @@
+[background arg="res://Assets/Fondos/Modern Urban/street_bg_dusk.webp" fade="2.0"]
+
+El día transcurre en una neblina irreal. Las clases son un murmullo lejano.
+El atardecer tiñe las calles de Tokio de un rojo carmesí. Un rojo que a Kaito le revuelve el estómago sin saber por qué.
+join Haru (El Amigo) leftmost
+join Aiko (Crush Normal) right
+join Kaito (Enamorado) center
+
+Haru (El Amigo): Bueno, parejita, me voy a mi apartamento a preparar la mochila. ¡Paso a buscaros a las 10 con el coche!
+Aiko (Crush Feli): Conduce con cuidado de vuelta a casa, Kaito. Te veo esta noche. Te quiero.
+
+Kaito: Y yo a ti. Nos vemos luego, chicos.
+leave Haru
+leave Aiko
+
+Kaito los ve alejarse, sintiendo un nudo inexplicable en la garganta.
+Una voz en su interior le grita que corra hacia ellos, que no los deje subir a ese coche esta noche. Pero el dolor de cabeza lo paraliza.
+
+[background arg="res://Assets/Fondos/Assorted/train_one.webp" fade="0.7" wait="true"]
+
+Kaito sube al metro nocturno. El vagón está inusualmente vacío. Solo el traqueteo rítmico de las vías rompe el silencio.
+Las luces fluorescentes parpadean, zumbando como moscas atrapadas.
+
+Se sienta en un rincón y suspira, agotado.
+Se pone los auriculares, buscando refugio en su lista de reproducción favorita.
+
+Kaito (Triste): (Solo necesito cerrar los ojos diez minutos. Solo diez minutos y todo volverá a la normalidad...)
+Kaito: (Esta noche nos iremos de viaje. Todo irá bien. Todo irá...)
+
+Las luces del vagón estallan, sumiendo el espacio en la penumbra.
+La música en sus oídos comienza a saltar. Un beat. Dos. Y luego...
+
+La música se distorsiona violentamente, convirtiéndose en un grito sordo, agudo y espeluznante que desgarra la mente de Kaito.
+Suena como el rechinar de los frenos de un coche sobre asfalto mojado. Suena a terror puro.
+
+Kaito (Desesperado): ¡AAAAHH! ¡MI CABEZA!
+Kaito intenta arrancarse los auriculares, pero el sonido viene de dentro de su propio cráneo.
+El vagón del tren parece caer en picado hacia el abismo.
+
+[wait time="1.0"]
