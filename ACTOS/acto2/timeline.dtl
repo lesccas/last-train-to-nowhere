@@ -14,7 +14,7 @@ Kaito (Kaito Enfadado): ¡Quiero salir! ¡Tengo que volver a casa!
 Kaito (Kaito Enfadado): ¡He dicho que quiero salir!
 join "El Guía" (El Guia) right
 
-Guia: Para volver, necesitas un billete. Y los billetes aquí se pagan con recuerdos. ¿Qué estarías dispuesto a olvidar para dar un paso más hacia la salida?
+"El Guía": Para volver, necesitas un billete. Y los billetes aquí se pagan con recuerdos. ¿Qué estarías dispuesto a olvidar para dar un paso más hacia la salida?
 
 Narrador: Kaito, consumido por la necesidad de escapar, cierra los ojos con fuerza y asiente, entregando el primer recuerdo cálido que encuentra en su mente\: el sabor del desayuno que su amigo Haru solía prepararle.
 [background arg="res://Assets/Fondos/Modern Urban/pancakes-anime-style.jpg" fade="0.0"]
