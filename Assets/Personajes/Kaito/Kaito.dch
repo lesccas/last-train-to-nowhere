@@ -28,7 +28,7 @@
 },
 "Desesperado_PrimerPlano": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_desesperado_PrimerPlano.png\""
+"image": "\"res://Assets/Personajes/Kaito/kaito_desesperado_PP.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
@@ -82,7 +82,7 @@
 },
 "Triste_PrimerPlano": {
 "export_overrides": {
-"image": "\"res://Assets/Personajes/Kaito/kaito_triste_primer_plano.png\""
+"image": "\"res://Assets/Personajes/Kaito/kaito_triste_PP.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
