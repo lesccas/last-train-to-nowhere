@@ -1,0 +1,47 @@
+[background arg="res://Assets/Fondos/School/applegate school gate 3 entrance.webp" fade="0.7" wait="true"]
+join Aiko (Crush Normal) left
+
+El campus bulle de actividad. Bajo la sombra de un gran roble, Aiko está sentada, intelectual y serena, leyendo un grueso volumen de poesía.
+join Haru (El Amigo) rightmost
+join Kaito (Normal) right
+Al ver acercarse a Kaito y Haru, cierra el libro y esboza una sonrisa cálida.
+
+Aiko (Crush Feli): Por fin llegáis. Empezaba a pensar que Haru había incendiado la cocina otra vez.
+Haru (Amigo Enfadado): ¡Oye! Mis dotes culinarias son incomprendidas en este siglo. Kaito, dile lo buenas que estaban las tortitas.
+
+Kaito (Enamorado): Estaban comestibles, dejémoslo ahí. H-Hola, Aiko.
+update Kaito center [animation="Bounce"]
+
+Aiko (Crush Normal): Jeje... Hola, Kaito. Tienes mala cara. ¿Seguro que estás durmiendo bien?
+update Haru (El Amigo)
+Kaito (Triste): Sí, sí, solo un dolor de cabeza tonto. Estoy emocionado por el viaje de esta noche, eso es todo.
+
+Aiko (Crush Feli): Yo también. Hace mucho que no salimos de la ciudad los tres juntos. Será como en los viejos tiempos.
+Mientras Aiko habla, Kaito siente un pitido en el oído. Gira la cabeza lentamente hacia un panel de anuncios cercano.
+Todos los carteles del corcho han desaparecido. Solo hay uno.
+Es un cartel metálico, oxidado, que desentona completamente con la pared de ladrillo de la universidad.
+Aiko (Crush Normal): Kaito, ¿estás bien? Te has quedado mirando ese cartel de 'Próxima Estación' durante cinco minutos.
+- Ese cartel...
+	
+	Kaito (Preocupado): Lo siento, Aiko. Es solo que... ese cartel no estaba ayer, ¿verdad?
+	update Kaito [animation="Shake X"]
+	Kaito (Desesperado): Y juraría que la tipografía parece estar... sangrando.
+	
+	Las letras rojas del cartel gotean un líquido espeso y oscuro que mancha la pared. El sonido de la estática en los oídos de Kaito es ensordecedor.
+	
+	Aiko: ¿Sangrando? Kaito, es un cartel sobre las becas de verano. La tinta roja está un poco corrida por la lluvia, eso es todo.
+	Aiko: Estás trabajando demasiado. Vámonos a casa, mañana será un día mejor.
+	
+	Kaito (Triste): (¿Becas? Pero si pone claramente... "PRÓXIMA ESTACIÓN\: TERMINUS".)
+	Kaito (Normal): Sí... sí, tienes razón. Necesito descansar antes de conducir esta noche.
+	Haru: Vámonos colega, nos esperan grandes cosas. SIUUUUU!!
+	Kaito: Jajajaja, tienes razón. Vamos.
+- No es nada Aiko
+	Kaito (Triste): N-No te preocupes Aiko, no es nada.
+	Kaito mira al suelo, preocupado. Sin embargo sabe que no puede ocultarle nada a su querida Aiko.
+	Aiko: Si tú lo dices... Pero estoy preocupada por ti. Descansa por favor, tenemos un largo viaje por delante.
+	Aiko toma las manos de Kaito y entrelaza sus dedos, su tacto es cálido y reconfortante. Su mirada se pierde en la inmensidad de sus ojos por un instante.
+	Kaito (Enamorado): ¿E-EH...? Oh, ¡claro claro! Tienes razón, necesito descansar. Mejor nos vamos ya.
+	Haru: (Míralo, el maestro del rizz, qué genio. Ve a por ella Kaito.)
+leave --All--
+jump El atardecer y el metro/

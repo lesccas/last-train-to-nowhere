@@ -40,3 +40,5 @@ Haru: ¿Eh? ¿Te has quemado con el sol o qué? Venga, mueve el culo que se enfr
 leave Haru [animation="Slide To Left"]
 
 Kaito (Preocupado): (¿Qué ha sido eso? Qué mareo más raro... Necesito un café bien cargado.)
+leave --All--
+jump La promesa en el campus/

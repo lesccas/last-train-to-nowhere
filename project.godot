@@ -28,6 +28,7 @@ directories/dch_directory={
 "Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
 }
 directories/dtl_directory={
+"El atardecer y el metro": "res://ACTOS/acto1/El atardecer y el metro.dtl",
 "El comienzo": "res://ACTOS/acto1/El comienzo.dtl",
 "La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
 "acto3": "res://ACTOS/acto3/acto3.dtl",
