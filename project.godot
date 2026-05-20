@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="last-train-to-nowhere"
-run/main_scene="uid://ddubt2fvmht8o"
+run/main_scene="uid://bdlnydkw2sdpr"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -21,8 +21,18 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 [dialogic]
 
-directories/dch_directory={}
-directories/dtl_directory={}
+directories/dch_directory={
+"Aiko": "res://Assets/Personajes/Crush/Aiko.dch",
+"El Guía": "res://Assets/Personajes/El Guia/El Guía.dch",
+"Haru": "res://Assets/Personajes/amigo/Haru.dch",
+"Kaito": "res://Assets/Personajes/Kaito/Kaito.dch"
+}
+directories/dtl_directory={
+"El comienzo": "res://ACTOS/acto1/El comienzo.dtl",
+"La promesa en el campus": "res://ACTOS/acto1/La promesa en el campus.dtl",
+"acto3": "res://ACTOS/acto3/acto3.dtl",
+"acto4.1": "res://ACTOS/acto4/acto4.1.dtl"
+}
 layout/style_directory={}
 extensions_folder="res://addons/dialogic_additions"
 text/letter_speed=0.01
