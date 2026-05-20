@@ -45,7 +45,7 @@ join "El Guía" (Enfadado_PrimerPlano) center
 	Kaito: Haru, Aiko... no puedo devolveros la vida. Pero puedo dejar de reteneros en esta pesadilla. Subid al tren. Yo me quedaré aquí a pagar la cuenta.
 	join Aiko right
 	join Haru rightmost
-	Aiko: Por fin... nos dejas ir.
+	Aiko: Por fin... nos dejas ir...
 	leave --All--
 	join "El Guía" (Enfadado_PrimerPlano) center
 	"El Guía": Has pagado con lo único que el infierno no puede quitarte\: la verdad. Ahora, despierta al mundo de los vivos. Te espera una celda de piedra, pero tu mente será, por fin, libre.
