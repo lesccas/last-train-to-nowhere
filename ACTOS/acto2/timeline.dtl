@@ -34,7 +34,7 @@ Narrador: Su rostro humano se deshace; la piel retrocede violentamente para reve
 
 Kaito (Kaito Triste): (En un susurro derrotado, paralizado frente a la criatura demoníaca) Lo acepto... y... ya no sé qué es una tortita.
 leave Kaito
-join "El Guía" (El Guia Enfadado) center [animation="Zoom In"]
+update "El Guía" (El Guia Enfadado) center [animation="Zoom In"]
 [background arg="res://Assets/Fondos/Assorted/tren-infierno.png" fade="0.0"]
 
 Narrador: Como respuesta a su sacrificio, un chirrido agónico inunda el vagón y la puerta del metro, justo frente a las garras del Guía, se abre de par en par, revelando un andén cubierto de ceniza.
